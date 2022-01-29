@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.main-table{
+    border: 1px solid;
+    margin: 10px auto;
+    padding: 20px;
+}
+.sub-table{
+    border: .5px solid red;
+    margin: 10px;
+    box-shadow: 5px 3px 5px 5px gray ;
+    border-radius: 10px;
+    border-spacing: 5px;
+}
+.sub-table td{
+    width: 150px;
+    padding: 10px;
+    border-radius: 10px;
+}
+span{
+    font-size: 18px;
+}
+.r1{
+    background-color: #0f0f0f;
+    color: white;
+}
+.r2{
+    background-color: #1f1f1f;
+    color: white;
+}
+.r3{
+    background-color: #2e2e2e;
+    color: white;
+}
+.r4{
+    background-color: #3d3d3d;
+    color: white;
+}
+.r5{
+    background-color: #4d4d4d;
+    color: white;
+}
+.r6{
+    background-color: #5c5c5c;
+    color: white;
+}
+.r7{
+    background-color: #f0f0f0;
+    color: black;
+}
+.r8{
+    background-color: #e0e0e0;
+    color: black;
+}
+.r9{
+    background-color: #d1d1d1;
+    color: black;
+}
+.r10{
+    background-color: #c2c2c2;
+    color: black;
+}
+.r11{
+    background-color: #b3b3b3;
+    color: black;
+}
+.r12{
+    background-color: #a3a3a3;
+    color: black;
+}
+.r13{
+    background-color: #8f8f8f;
+    color: black;
+}
+.r14{
+    background-color: #a1a1a1;
+    color: black;
+}
+.r15{
+    background-color: #b0b0b0;
+    color: black;
+}
+.r16{
+    background-color: #cfcfcf;
+    color: black;
+}
+.r17{
+    background-color: #dedede;
+    color: black;
+}
+.r18{
+    background-color: #ededed;
+    color: black;
+}
+.r19{
+    background-color: #525252;
+    color: black;
+}
+.r20{
+    background-color: #616161;
+    color: black;
+}
+.r21{
+    background-color: #707070;
+    color: black;
+}
+.r22{
+    background-color: #8f8f8f;
+    color: black;
+}
+.r23{
+    background-color: #9e9e9e;
+    color: black;
+}
+.r24{
+    background-color: #adadad;
+    color: black;
+}
+.r25{
+    background-color: #ff0f87;
+    color: black;
+}
+.r26{
+    background-color: #ff2e96;
+    color: black;
+}
+.r27{
+    background-color: #ff4da6;
+    color: black;
+}
+.r28{
+    background-color: #ff8acf;
+    color: black;
+}
+.r29{
+    background-color: #ffa8d4;
+    color: black;
+}
+.r30{
+    background-color: #ffc7e3;
+    color: black;
+}
+.r31{
+    background-color: #a300a3;
+    color: black;
+}
+.r32{
+    background-color: #c200c2;
+    color: black;
+}
+.r33{
+    background-color: #e000e0;
+    color: black;
+}
+.r34{
+    background-color: #ff1fff;
+    color: black;
+}
+.r35{
+    background-color: #ff3dff;
+    color: black;
+}
+.r36{
+    background-color: #ff5cff;
+    color: black;
+}
+.r371{
+    background-color: #5c00a3;
+    color: black;
+}
+.r381{
+    background-color: #6e00c2;
+    color: black;
+}
+.r391{
+    background-color: #7f00e0;
+    color: black;
+}
+.r401{
+    background-color: #9e1fff;
+    color: black;
+}
+.r411{
+    background-color: #ab3dff;
+    color: black;
+}
+.r421{
+    background-color: #b85cff;
+    color: black;
+}
